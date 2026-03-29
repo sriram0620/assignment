@@ -92,7 +92,7 @@ export default function AuthPage() {
             </div>
             <div>
               <div className="font-bold text-white text-lg">Mini AI-HRMS</div>
-              <div className="text-xs text-gray-500">RizeOS Platform</div>
+              <div className="text-xs text-gray-500"> Platform</div>
             </div>
           </div>
         </div>
@@ -125,7 +125,7 @@ export default function AuthPage() {
         </div>
 
         <div className="relative z-10 text-xs text-gray-600">
-          Built for the RizeOS Core Team Internship Assessment
+          Built for the  Core Team Internship Assessment
         </div>
       </div>
 

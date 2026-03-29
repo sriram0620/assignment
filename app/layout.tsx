@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mini AI-HRMS | RizeOS",
+  title: "Mini AI-HRMS |",
   description: "AI-powered Human Resource Management System",
 };
 

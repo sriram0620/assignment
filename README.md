@@ -1,6 +1,6 @@
-# 🚀 Mini AI-HRMS (RizeOS Platform)
+# 🚀 Mini AI-HRMS ( Platform)
 
-Welcome to the **Mini AI-HRMS**, a next-generation Workforce Intelligence platform built for the **RizeOS Core Team Internship Assessment**. This project integrates **Full-Stack development**, **AI-driven insights**, and **Web3 transparency** to redefine how organizations manage their workforce.
+Welcome to the **Mini AI-HRMS**, a next-generation Workforce Intelligence platform built for the ** Core Team Internship Assessment**. This project integrates **Full-Stack development**, **AI-driven insights**, and **Web3 transparency** to redefine how organizations manage their workforce.
 
 ---
 
